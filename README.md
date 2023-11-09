@@ -1,4 +1,5 @@
 # vmp.assignment
+# demo video linkage : https://youtu.be/FB82lYxriCI
 
     import pygame
     import numpy as np
