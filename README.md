@@ -1,5 +1,5 @@
 # Sound, Music & Image for Shmup
-# demo video linkage : 
+# demo video linkage : https://youtu.be/p4lmq3JqGP8
         
         import pygame
         import random
