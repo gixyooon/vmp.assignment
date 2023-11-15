@@ -1,3 +1,4 @@
+#20221011 Jiyun Kim
 # Sound, Music & Image for Shmup
 # demo video linkage : https://youtu.be/p4lmq3JqGP8
         
